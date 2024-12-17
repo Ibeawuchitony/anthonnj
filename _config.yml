@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: My IT Security Portfolio
-description: A professional portfolio showcasing my projects and certifications.
+description: Showcasing my cybersecurity projects, certifications, and skills.
+logo: /assets/profile.png # Add your profile image later
+show_downloads: false
