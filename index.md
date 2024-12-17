@@ -1,6 +1,4 @@
----
-layout: default
-title: Welcome to My IT Security Portfolio
+Welcome to My IT Security Portfolio
 ---
 
 ![Profile](https://github.com/yourusername/anthonj/raw/main/assets/profile.png)
