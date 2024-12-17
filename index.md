@@ -1,3 +1,29 @@
 # Welcome to My Portfolio
+---
+layout: default
+title: Welcome to My Portfolio
+---
 
-This is a professional portfolio showcasing my **IT Security projects** and skills. Stay tuned for updates!
+# Hi, I'm **[Anthony Njoku]** 👋
+
+Welcome to my professional portfolio as an **IT Security Professional**.  
+
+Here, you'll find my projects, skills, and certifications - (SITE STILL UNDER DEVELOPMENT).
+
+---
+
+## 🚀 **Projects**
+- **Vulnerability Scanner**: [View Project](https://github.com/yourusername/project1)
+- **Penetration Testing Write-Ups**: [View Project](https://github.com/yourusername/project2)
+
+---
+
+## 🛠️ **Skills**
+- **Tools**: Kali Linux, Burp Suite, Nmap, Wireshark
+- **Languages**: Python, Bash, PowerShell
+
+---
+
+## 📫 **Contact**
+- [LinkedIn](https://linkedin.com/in/yourname)
+- [Email]anthony.njoku@outlook.com
