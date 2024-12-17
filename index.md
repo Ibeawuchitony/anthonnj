@@ -1,8 +1,5 @@
 # Welcome to My Portfolio
----
-layout: default
-title: Welcome to My Portfolio
----
+
 
 # Hi, I'm **[Anthony Njoku]** 👋
 
