@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 **About Me**
-- 🛡 **IT Security Specialist** with experience in **Penetration Testing**, **Vulnerability Assessments**, and **Incident Response**.
+- 🛡 **IT Security Specialist** with experience in **Linux, Unix, and Windows Security Admin**,**Database Security Admin** ,**Penetration Testing**, **Vulnerability Assessments**, and **Incident Response**.
 - 🛠️ Skilled in **Kali Linux**, **Wireshark**, **Burp Suite**, **Nmap**, and other security tools.
 - 🏆 Certified: **CompTIA Security+**, **Project Management(PMP)**, **Business Analyst(CBAP)**, **Agile Certified Professional(PMI-ACP)**, **ITIL**
-- 🧠 Techinical Skills: **Linux/Unix system admin, **Database administeration(Oracle, SQL server , DB2)**, **Networking**
+- 🧠 Techinical Skills: **•	Linux, Unix, and Windows Administration**, **•	Database Infrastructure Management - Oracle, SQL server , DB2 (On-premises and Cloud)**,**•	Cloud Technologies (AWS, Azure, Oracle OCI)**, **Networking**, **Scripting and Automation**
 
 ---
 
@@ -30,14 +30,16 @@
 ### 🔬 **Portfolio Projects**
 Here are some key projects that showcase my skills:
 
-1. **[Vulnerability Scanner Automation](https://github.com/yourusername/project1)**
+1. **[Linux Server Hardening](https://github.com/yourusername/project1)**
+2.   - Built an automated scanner to detect vulnerabilities in web applications.
+3. **[Vulnerability Scanner Automation](https://github.com/yourusername/project1)**
    - Built an automated scanner to detect vulnerabilities in web applications.
    - **Tools Used:** Python, OWASP ZAP API.
 
-2. **[Penetration Testing Write-ups](https://github.com/yourusername/project2)**
+4. **[Penetration Testing Write-ups](https://github.com/yourusername/project2)**
    - Documented penetration tests on platforms like **TryHackMe** and **HackTheBox**.
 
-3. **[Log Parser for Intrusion Detection](https://github.com/yourusername/project3)**
+5. **[Log Parser for Intrusion Detection](https://github.com/yourusername/project3)**
    - Developed a log parser to detect anomalies in server logs.
    - **Tools Used:** Python, ELK Stack.
 
