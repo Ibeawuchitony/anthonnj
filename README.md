@@ -10,8 +10,8 @@
 ### 🚀 **About Me**
 - 🛡 **IT Security Specialist** with experience in **Penetration Testing**, **Vulnerability Assessments**, and **Incident Response**.
 - 🛠️ Skilled in **Kali Linux**, **Wireshark**, **Burp Suite**, **Nmap**, and other security tools.
-- 🏆 Certified: **CEH**, **OSCP**, **CompTIA Security+** (List your certifications here).
-- 🧠 Continuously learning and contributing to **CTFs** and **bug bounty programs**.
+- 🏆 Certified: **CompTIA Security+**, **Project Management(PMP)**, **Business Analyst(CBAP)**, **Agile Certified Professional(PMI-ACP)**, **ITIL**
+- 🧠 Techinical Skills: **Linux/Unix system admin, **Database administeration(Oracle, SQL server , DB2)**, **Networking**
 
 ---
 
@@ -44,9 +44,12 @@ Here are some key projects that showcase my skills:
 ---
 
 ### 📜 **Certifications**
-- CEH: Certified Ethical Hacker
 - CompTIA Security+
-- OSCP: Offensive Security Certified Professional
+- Project Management Professional (PMP)
+- PMI Agile Certified Practitioner (PMI-ACP) 
+- Certified Business Analysis Professional (CBAP)
+- ITIL® 4 Managing Professional Certificate
+
 
 ---
 
