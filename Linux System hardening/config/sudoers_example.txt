@@ -1,9 +1,0 @@
-# Full sudo privileges for Sherlock
-sherlock ALL=(ALL) NOPASSWD:ALL
-
-# Limited sudo privileges for Watson and Mycroft
-watson ALL=(ALL) NOPASSWD: /var/log/logcleanup.sh
-mycroft ALL=(ALL) NOPASSWD: /var/log/logcleanup.sh
-
-# Group-based sudo privileges for the research group
-%research ALL=(ALL) NOPASSWD: /tmp/scripts/research_script.sh
