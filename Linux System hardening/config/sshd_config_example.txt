@@ -1,0 +1,4 @@
+PermitEmptyPasswords no
+PermitRootLogin no
+Port 2222
+Protocol 2
