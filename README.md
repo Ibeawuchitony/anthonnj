@@ -32,15 +32,15 @@
 Here are some key projects that showcase my skills:
 
 1. **[Linux Server Hardening](https://github.com/Ibeawuchitony/linux-security-hardening-project)**
-2.   - Built an automated scanner to detect vulnerabilities in web applications.
-3. **[Vulnerability Scanner Automation](https://github.com/yourusername/project1)**
+
+2. **[Vulnerability Scanner Automation](https://github.com/yourusername/project1)**
    - Built an automated scanner to detect vulnerabilities in web applications.
    - **Tools Used:** Python, OWASP ZAP API.
 
-4. **[Penetration Testing Write-ups](https://github.com/yourusername/project2)**
+3. **[Penetration Testing Write-ups](https://github.com/yourusername/project2)**
    - Documented penetration tests on platforms like **TryHackMe** and **HackTheBox**.
 
-5. **[Log Parser for Intrusion Detection](https://github.com/yourusername/project3)**
+4. **[Log Parser for Intrusion Detection](https://github.com/yourusername/project3)**
    - Developed a log parser to detect anomalies in server logs.
    - **Tools Used:** Python, ELK Stack.
 
