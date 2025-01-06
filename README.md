@@ -12,6 +12,7 @@
 - 🛠️ Skilled in **Kali Linux**, **Wireshark**, **Burp Suite**, **Nmap**, and other security tools.
 - 🏆 Certified: **CompTIA Security+**, **Project Management(PMP)**, **Business Analyst(CBAP)**, **Agile Certified Professional(PMI-ACP)**, **ITIL**
 - 🧠 Techinical Skills: **•	Linux, Unix, and Windows Administration**, **•	Database Infrastructure Management - Oracle, SQL server , DB2 (On-premises and Cloud)**,**•	Cloud Technologies (AWS, Azure, Oracle OCI)**, **Networking**, **Scripting and Automation**
+- 🧠 Management Skills: **•Project Management**, **•	Business Analysis**,**•	Process Audit and Re-engineering**
 
 ---
 
