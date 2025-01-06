@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [ANTHONY NJOKU]</h1>
 <h3 align="center">Cybersecurity Specialist | Penetration Tester | Security Researcher</h3>
 
 <p align="center">
