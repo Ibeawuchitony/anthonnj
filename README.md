@@ -30,7 +30,7 @@
 ### 🔬 **Portfolio Projects**
 Here are some key projects that showcase my skills:
 
-1. **[Linux Server Hardening](https://github.com/Ibeawuchitony/anthonnj/tree/main/Linux%20System%20hardening)**
+1. **[Linux Server Hardening](https://github.com/Ibeawuchitony/linux-security-hardening-project)**
 2.   - Built an automated scanner to detect vulnerabilities in web applications.
 3. **[Vulnerability Scanner Automation](https://github.com/yourusername/project1)**
    - Built an automated scanner to detect vulnerabilities in web applications.
